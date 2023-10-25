@@ -47,7 +47,7 @@ wrong.value = true
 } else {
 wrong.value = false
 console.log("Sign in successful:", data);
-navigateTo('/Profile')
+navigateTo('/')
 // Do something with the authenticated user data if needed.
 }
 
